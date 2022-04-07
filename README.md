@@ -7,7 +7,7 @@ Flappy Bird is a mobile game  . The game is a side-scroller where the player con
 
 TextRewievs:
 ![Alt text](sreen_flappy/flappy1.jpeg?)
-![Alt text](sreen_flappy/flapp2.jpeg?)
+![Alt text](sreen_flappy/flappy2.jpeg?)
 ![Alt text](sreen_flappy/flappy3.jpeg?)
 ![Alt text](sreen_flappy/flappy4.jpeg?)
 
