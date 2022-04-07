@@ -3,3 +3,4 @@ Flappy Bird is a mobile game  . The game is a side-scroller where the player con
 
 ![alt text](http:Suiorkul_midterm_project/Flappy Bird Windows Form/sreen_flappy/flappy.PNG)
 ![alt text](https://github.com/[suiorkul]/[Midterm2022]Suiorkul_midterm_project/Flappy Bird Windows Form/sreen_flappy/flappy.PNG)
+![alt text](http://Suiorkul_midterm_project/Flappy Bird Windows Form/sreen_flappy/to/flappy.PNG)
